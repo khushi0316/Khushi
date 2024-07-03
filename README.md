@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/khushi0316/Khushi/blob/main/images/khushibanner.jpg)
 # 💫 About Me:
 I'm Khushi and I'm a Web developer<br>dedicated and highly skilled web developer with a passion for crafting seamless and intuitive online experiences. With extensive expertise in front-end and back-end technologies, I excels at creating responsive and visually appealing websites that meet the unique needs of clients.My proficiency in HTML, CSS, JavaScript, and modern frameworks such as React and Angular, combined with a strong understanding of server-side languages like Node.js and PHP, allows me to build robust and scalable web applications. My commitment to staying updated with the latest industry trends ensures that my consistently delivers innovative and efficient solutions Known for meticulous attention to detail and problem-solving abilities and valuable asset to any development team, dedicated to bringing creative visions to life through code.
 ## 🌐 Socials:
