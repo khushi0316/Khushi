@@ -26,8 +26,3 @@ I'm Khushi and I'm a Web developer<br>dedicated and highly skilled web developer
 [![](https://github.com/khushi0316/Khushi/blob/main/images/meme.webp)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khushi0316&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
