@@ -1,9 +1,6 @@
-![logo](https://github.com/Lalitkumar19/Lalit-kumar/blob/main/images/github-banner-lalit.jpg)
+![logo]()
 # 💫 About Me:
 I'm Khushi and I'm a Web developer<br>dedicated and highly skilled web developer with a passion for crafting seamless and intuitive online experiences. With extensive expertise in front-end and back-end technologies, I excels at creating responsive and visually appealing websites that meet the unique needs of clients.My proficiency in HTML, CSS, JavaScript, and modern frameworks such as React and Angular, combined with a strong understanding of server-side languages like Node.js and PHP, allows me to build robust and scalable web applications. My commitment to staying updated with the latest industry trends ensures that my consistently delivers innovative and efficient solutions Known for meticulous attention to detail and problem-solving abilities and valuable asset to any development team, dedicated to bringing creative visions to life through code.
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khushi.n0706) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-rajpal-707734285) 
 
